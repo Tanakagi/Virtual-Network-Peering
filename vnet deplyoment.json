@@ -1,0 +1,2 @@
+az network vnet create -g rgv1 -n vnet2 --address-prefix 192.168.0.0/16 
+--subnet-name subnet1 --subnet-prefix 192.168.1.0/24
